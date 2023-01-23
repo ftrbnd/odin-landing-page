@@ -65,10 +65,11 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     width: 100px;
-    border: 4px solid #3882F6;
+    border: 1px solid white;
     border-radius: 5px;
     padding: 6px;
     font-weight: bold;
+
 }
 
 .image-row {
@@ -148,10 +149,6 @@ ul.row-images {
 
 .sign-up-description {
     color: #E5E7EB;
-}
-
-button.sign-up {
-    border: 10px white;
 }
 
 .footer {
