@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ftrbnd/odin-recipes">
+  <a href="https://github.com/ftrbnd/odin-landing-page">
     <img src="https://avatars.githubusercontent.com/u/4441966" alt="Logo" width="80" height="80">
   </a>
 
@@ -42,7 +42,7 @@
 
 ### Screenshots
 
-[![Product Name Screen Shot][product-screenshot-1]](https://ftrbnd.github.io/odin-recipes/)
+[![Product Name Screen Shot][product-screenshot-1]](https://ftrbnd.github.io/odin-landing-page/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
